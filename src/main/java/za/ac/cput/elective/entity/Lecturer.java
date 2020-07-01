@@ -1,5 +1,11 @@
 package za.ac.cput.elective.entity;
 
+/**
+* @author @WilliamHenryKing
+* Desc: Entity for Lecturer
+* Date: 2020/06/22
+**/
+
 public class Lecturer {
 
     private long lecturerID;
