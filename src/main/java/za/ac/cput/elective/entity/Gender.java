@@ -1,5 +1,11 @@
 package za.ac.cput.elective.entity;
 
+/**
+* @author @WilliamHenryKing
+* Desc: Entity for Gender
+* Date: 2020/06/22
+**/
+
 public class Gender {
 
     public enum genderIs {
