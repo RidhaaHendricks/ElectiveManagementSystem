@@ -1,5 +1,10 @@
 package za.ac.cput.elective.factory;
 
+/** Student class
+* @author @Dogfoger
+* Desc: Factory for Student
+* Date: 2020/07/01
+ */
 import org.junit.Assert;
 import org.junit.Test;
 import za.ac.cput.elective.entity.Student;
