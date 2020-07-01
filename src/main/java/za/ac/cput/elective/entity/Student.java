@@ -1,7 +1,9 @@
 package za.ac.cput.elective.entity;
 
-/* Student class
-Author: Sean Trainor 218060033
+/** Student class
+* @author @Dogfoger
+* Desc: Entity for Student
+* Date: 2020/07/01
  */
 
 public class Student {
