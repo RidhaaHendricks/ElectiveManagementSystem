@@ -1,5 +1,11 @@
 package za.ac.cput.elective.entity;
 
+/*
+* @author: Ridhaa Hendricks GitHub: ridhaahendricks
+* Desc: Create Faculty class using the Builder pattern
+* Date: 29th June 2020
+*/
+
 public class Faculty {
 
     private int facultyID;
